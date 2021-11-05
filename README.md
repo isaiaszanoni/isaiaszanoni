@@ -1,8 +1,15 @@
 ### Olá! Sou Isaias 👋
 
 - Acabo de concluir o bootcamp Java Web Fullstack da Generation Brasil, e venho me dedicando a obter experiência desenvolvendo projetos em diversas tecnologias e em grupo.
-- Sou apaixonado por aprender e extremamente curioso. 
+- Sou apaixonado por aprender e extremamente curioso. Trabalho em equipe de maneira proativa e empática.
 
+### Contato
+
+<a href="mailto:isaiasz.mus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/isaiasz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+#### isaiasz.mus@gmail.com
+
+#### (11)992110874
 ---
 
 <div>
