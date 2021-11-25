@@ -12,12 +12,12 @@
 #### (11)992110874
 ---
 
-<div>
+<!--<div>
   <a href="https://github.com/isaiaszanoni" target="_blank">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiaszanoni&layout=compact&langs_count=8&theme=dark&"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=isaiaszanoni&theme=dark&show_icons=false&layout=compact"/>
   </a>
-</div>
+</div> -->
 
 <div>
   <h3>Tecnologias</h3>
