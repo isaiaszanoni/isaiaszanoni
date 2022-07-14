@@ -1,8 +1,8 @@
 ### Olá! Sou Isaias 👋
 
 - Curioso e apaixonado por aprender
-- Analista de Sistemas Jr. na Valemobi - Trademap
-- Estudando Kotlin no backend
+- Analista de Sistemas Jr
+- Estudando Kotlin no backend, React no Frontend
 
 ### Contato
 
