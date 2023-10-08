@@ -1,8 +1,8 @@
 ### Olá! Sou Isaias 👋
 
 - Curioso e apaixonado por aprender
-- Analista de Sistemas Jr
-- Estudando Kotlin no backend, React no Frontend
+- Desenvolvedor Fullstack na Conquer Business School
+- Estudando Estruturas de Dados, DevOPS, e outras coisinhas mais.
 
 ### Contato
 
