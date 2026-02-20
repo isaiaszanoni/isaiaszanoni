@@ -9,10 +9,8 @@
 <a href="https://linkedin.com/in/isaiasz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 #### isaiasz.mus@gmail.com
 
-#### 11 992110874
-
 #### Principais Stacks
-- Java (11, 17, 21)
+- Java (8, 11, 17, 21)
 - Spring Boot
 - Javascript e Typescript
 - React
@@ -22,19 +20,20 @@
 #### Principais Bancos de Dados
 - MongoDB
 - MySQL
+- SQL Server
 
 #### Outras tecnologias e ferramentas
-- AWS (SQS, SNS, S3, RDS)
+- AWS (SQS, SNS, S3, RDS, EC2, Lambda)
 - GCP (básico)
 - Docker
 - Kubernetes (básico)
 - Rancher
 - Kibana
 - Linux (Ubuntu)
-- GitHub
+- GIT, GitHub
 - BitBucket - CI/CD com BitBucket Pipelines
-- VsCode
-- Intellij Ultimate IDEA
+- VsCode, Intellij Ultimate IDEA
 - DBeaver, Robo3T, MongoDB Compass
+- Scrum, Kanban
 ---
 
